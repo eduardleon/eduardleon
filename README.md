@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eduard
+- 👋 Hi, I’m Eduard.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Ruby on Rails
 - 💞️ I’m looking to collaborate on ...?
